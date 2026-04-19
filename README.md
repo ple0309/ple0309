@@ -1,7 +1,7 @@
 # 💫 About Me:
 👨‍💻 Sharing about my journey and learnings in tech<br>
 🌱 Studied Computer Science at California State University, Long Beach<br>
-🎓 My goal is to become a full-stack software engineer
+🎓 My goal is to become a Full-Stack DevOps.
 
 
 ## 🌐 Socials:
